@@ -1,0 +1,9 @@
+dash==2.6.0
+gunicorn
+dash_bootstrap_components
+plotly
+pymongo==3.10
+dnspython
+plotly.graph_objs
+dash_table
+plotly.graph_objs
