@@ -6,7 +6,7 @@ import dash_table
 import random
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
-
+server = app.server
 #Base de datos
 from pymongo.mongo_client import MongoClient
 uri = "mongodb+srv://cagomezj:1234@cluster0.lg8bsx8.mongodb.net/?retryWrites=true&w=majority"
