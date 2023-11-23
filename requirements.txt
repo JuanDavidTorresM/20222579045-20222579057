@@ -4,6 +4,3 @@ dash_bootstrap_components
 plotly
 pymongo==3.10
 dnspython
-plotly.graph_objs
-dash_table
-plotly.graph_objs
